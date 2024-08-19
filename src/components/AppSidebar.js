@@ -9,7 +9,7 @@ import CIcon from '@coreui/icons-react';
 
 import { AppSidebarNav } from './AppSidebarNav';
 import { logoNegative } from '../../src/assets/brand/logo-negative';
-import logoFull from '../../src/assets/brand/logo.png';
+// import logoFull from '../../src/assets/brand/logo.png';
 import logoCircle from '../../src/assets/brand/logo_cyrcle.png';
 import { sygnet } from '../../src/assets/brand/sygnet';
 
